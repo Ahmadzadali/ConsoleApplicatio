@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Murad\\Desktop\\ConsoleApplicatio\\Magazine\\",
+  "WorkspaceRootPath": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApplicatio\\Magazine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|c:\\users\\murad\\desktop\\consoleapplicatio\\magazine\\magazine\\magazine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|c:\\users\\riada\\onedrive\\masa\u00FCst\u00FC\\consoleapplicatio\\magazine\\magazine\\services\\icargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|solutionrelative:magazine\\services\\icargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|c:\\users\\riada\\onedrive\\masa\u00FCst\u00FC\\consoleapplicatio\\magazine\\magazine\\magazine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|solutionrelative:magazine\\magazine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|c:\\users\\murad\\desktop\\consoleapplicatio\\magazine\\magazine\\models\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|c:\\users\\riada\\onedrive\\masa\u00FCst\u00FC\\consoleapplicatio\\magazine\\magazine\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|solutionrelative:magazine\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|c:\\users\\riada\\onedrive\\masa\u00FCst\u00FC\\consoleapplicatio\\magazine\\magazine\\models\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|solutionrelative:magazine\\models\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|c:\\users\\riada\\onedrive\\masa\u00FCst\u00FC\\consoleapplicatio\\magazine\\magazine\\models\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|solutionrelative:magazine\\models\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|c:\\users\\murad\\desktop\\consoleapplicatio\\magazine\\magazine\\models\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|c:\\users\\riada\\onedrive\\masa\u00FCst\u00FC\\consoleapplicatio\\magazine\\magazine\\models\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|solutionrelative:magazine\\models\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|c:\\users\\murad\\desktop\\consoleapplicatio\\magazine\\magazine\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|c:\\users\\riada\\onedrive\\masa\u00FCst\u00FC\\consoleapplicatio\\magazine\\magazine\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A0AC078-A703-4FA0-8412-491CAE8EB3A2}|Magazine\\Magazine.csproj|solutionrelative:magazine\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,15 +38,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Magazine",
-              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\ConsoleApplicatio\\Magazine\\Magazine\\Magazine.csproj",
+              "Title": "ICargoService.cs",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApplicatio\\Magazine\\Magazine\\Services\\ICargoService.cs",
+              "RelativeDocumentMoniker": "Magazine\\Services\\ICargoService.cs",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApplicatio\\Magazine\\Magazine\\Services\\ICargoService.cs",
+              "RelativeToolTip": "Magazine\\Services\\ICargoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:08:29.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApplicatio\\Magazine\\Magazine\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Magazine\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApplicatio\\Magazine\\Magazine\\Models\\Customer.cs",
+              "RelativeToolTip": "Magazine\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:07:31.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Courier.cs",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApplicatio\\Magazine\\Magazine\\Models\\Courier.cs",
+              "RelativeDocumentMoniker": "Magazine\\Models\\Courier.cs",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApplicatio\\Magazine\\Magazine\\Models\\Courier.cs",
+              "RelativeToolTip": "Magazine\\Models\\Courier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:07:03.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Magazine.csproj",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApplicatio\\Magazine\\Magazine\\Magazine.csproj",
               "RelativeDocumentMoniker": "Magazine\\Magazine.csproj",
-              "ToolTip": "C:\\Users\\Murad\\Desktop\\ConsoleApplicatio\\Magazine\\Magazine\\Magazine.csproj",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApplicatio\\Magazine\\Magazine\\Magazine.csproj",
               "RelativeToolTip": "Magazine\\Magazine.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -42,47 +101,40 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\ConsoleApplicatio\\Magazine\\Magazine\\Models\\Enums\\OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApplicatio\\Magazine\\Magazine\\Models\\Enums\\OrderStatus.cs",
               "RelativeDocumentMoniker": "Magazine\\Models\\Enums\\OrderStatus.cs",
-              "ToolTip": "C:\\Users\\Murad\\Desktop\\ConsoleApplicatio\\Magazine\\Magazine\\Models\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApplicatio\\Magazine\\Magazine\\Models\\Enums\\OrderStatus.cs",
               "RelativeToolTip": "Magazine\\Models\\Enums\\OrderStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T14:50:58.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T14:50:58.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CargoOrder.cs",
-              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\ConsoleApplicatio\\Magazine\\Magazine\\Models\\CargoOrder.cs",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApplicatio\\Magazine\\Magazine\\Models\\CargoOrder.cs",
               "RelativeDocumentMoniker": "Magazine\\Models\\CargoOrder.cs",
-              "ToolTip": "C:\\Users\\Murad\\Desktop\\ConsoleApplicatio\\Magazine\\Magazine\\Models\\CargoOrder.cs",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApplicatio\\Magazine\\Magazine\\Models\\CargoOrder.cs",
               "RelativeToolTip": "Magazine\\Models\\CargoOrder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T14:48:27.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T14:48:27.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\ConsoleApplicatio\\Magazine\\Magazine\\Models\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApplicatio\\Magazine\\Magazine\\Models\\Program.cs",
               "RelativeDocumentMoniker": "Magazine\\Models\\Program.cs",
-              "ToolTip": "C:\\Users\\Murad\\Desktop\\ConsoleApplicatio\\Magazine\\Magazine\\Models\\Program.cs",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApplicatio\\Magazine\\Magazine\\Models\\Program.cs",
               "RelativeToolTip": "Magazine\\Models\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T14:45:02.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T14:45:02.735Z"
             }
           ]
         }
