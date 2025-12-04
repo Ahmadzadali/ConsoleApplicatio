@@ -1,4 +1,4 @@
-﻿namespace Magazine
+﻿namespace Magazine.Models
 {
     internal class Program
     {
