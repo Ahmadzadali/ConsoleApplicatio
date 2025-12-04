@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Magazine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< refs/remotes/origin/riad2
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+354cd32da478c17a879f3aafbee46870051d85e5")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc45169de54edb8045ec2947bb70ff4f0c51a411")]
+>>>>>>> local
 [assembly: System.Reflection.AssemblyProductAttribute("Magazine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Magazine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

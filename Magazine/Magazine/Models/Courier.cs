@@ -7,7 +7,7 @@ public class Courier
 
     public string Name { get; set; }
 
-    public bool IsAvailable { get; set; }
+    public bool IsAvailable { get; set; } = true;
     public Courier()
     {
         _count++;
