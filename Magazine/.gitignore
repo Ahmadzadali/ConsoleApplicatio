@@ -1,0 +1,81 @@
+## Build folders
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+## User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.csproj.user
+
+## Visual Studio cache
+.vs/
+*.suo
+*.cache
+*.pdb
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+*.lock.json
+project.lock.json
+artifacts/
+
+# NuGet restore
+.nuget/
+
+## Logs
+*.log
+
+## Compiled files
+*.dll
+*.exe
+*.app
+*.dbmdl
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Azure
+.publishsettings
+*.azurePubxml
+
+## ASP.NET Temp
+App_Data/
+wwwroot/lib/
+
+## Entity Framework
+Migrations/
+
+## Tests
+TestResult*/
+TestResults/
+*.coverage
+*.coveragexml
+
+## VS Code
+.vscode/
+*.code-workspace
+
+## Temporary
+*.tmp
+*.temp
+*.bak
+
+## OS Files
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
