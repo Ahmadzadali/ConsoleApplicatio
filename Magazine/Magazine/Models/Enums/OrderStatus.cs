@@ -1,6 +1,6 @@
 ﻿namespace Magazine.Models.Enums;
 
- enum OrderStatus
+ public enum OrderStatus
 {
     Created,
     OnTheWay,
